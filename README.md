@@ -59,7 +59,7 @@ Grâce à ce pipeline, une entreprise peut :
 ---
 
 ## 👨‍💻 Auteur
-**Tomté Hassane** *Étudiant en Master 2 MIDD (Data Engineering)* *Freelance Data Engineer & Software Consultant* *Fondateur de **Tete Roh Studio***
+**Tomté Hassane** *Étudiant en Master 2 MIDD (Data Engineering)* *Freelance Data Engineer & Software Consultant* *Fondateur de **DemarcheursIT***
 
 ---
 
