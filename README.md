@@ -45,8 +45,7 @@ Le script est orchestré par une fonction "Wrapper" (`job()`) qui garantit l'ex�
 
 * `notebook_complet.ipynb` : Le code source documenté.
 * `data/` : Contient le fichier `books_scraped_data.csv` généré.
-* `output/` : Contient un exemple du rapport PDF final `Rapport_Analytique_Entreprise.pdf`.
-* `images/` : Graphiques de visualisation utilisés dans le rapport.
+
 
 ---
 
